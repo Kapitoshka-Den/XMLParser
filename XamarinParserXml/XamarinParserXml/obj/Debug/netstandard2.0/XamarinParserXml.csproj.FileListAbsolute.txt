@@ -1,0 +1,17 @@
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\bin\Debug\netstandard2.0\XamarinParserXml.deps.json
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\bin\Debug\netstandard2.0\XamarinParserXml.dll
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\bin\Debug\netstandard2.0\XamarinParserXml.pdb
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\XamarinParserXml.csproj.AssemblyReference.cache
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\XamarinParserXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\Views\ListWithId.xaml.g.cs
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\XamarinParserXml.AssemblyInfoInputs.cache
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\XamarinParserXml.AssemblyInfo.cs
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\XamarinParserXml.csproj.CoreCompileInputs.cache
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\XamarinParserXml.dll
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\refint\XamarinParserXml.dll
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\XamarinParserXml.pdb
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\ref\XamarinParserXml.dll
+C:\Test\XamarinXmlParser\XamarinParserXml\XamarinParserXml\XamarinParserXml\obj\Debug\netstandard2.0\Views\OffersJson.xaml.g.cs
